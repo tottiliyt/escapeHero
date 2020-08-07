@@ -1,0 +1,235 @@
+commit e7e76b5ae16b93593dc735b762eb85a708f50794
+Author: Wenxuan Lu <wlu15@jhu.edu>
+Date:   Tue May 5 06:02:34 2020 -0400
+
+    mazetest all passed
+
+commit d7d67155de60e6da14f078fcb794bc1342e4ba0d
+Author: Intermediate Programming S20 AD <alexzhang802@gmail.com>
+Date:   Mon May 4 18:27:22 2020 -0400
+
+    entity change
+
+commit 8ae80a9fdd9b60793355f4eb21785f5dfacf4b17
+Author: Intermediate Programming S20 AD <alexzhang802@gmail.com>
+Date:   Mon May 4 14:00:05 2020 -0400
+
+    minor leak
+
+commit 3a7faa8922205b589e3c5ff0a698b3ae9d90bb63
+Author: Intermediate Programming S20 AD <alexzhang802@gmail.com>
+Date:   Mon May 4 13:29:30 2020 -0400
+
+    minor changes
+
+commit f411283a0a16108c46e152f22b66c0760ee05d14
+Author: Yuntao Li <yli346@jh.edu>
+Date:   Mon May 4 04:20:37 2020 -0400
+
+    fix part of memory leaking
+
+commit dd4682ffab7c34120daeecaf0bf4bf3b1df1f0ab
+Author: Yuntao Li <yli346@jh.edu>
+Date:   Sun May 3 08:57:30 2020 -0400
+
+    curses implemented
+
+commit 0f0161d8d5b379568cc30019eda64ee37c8fe1ef
+Author: Yuntao Li <yli346@jh.edu>
+Date:   Sat May 2 19:09:55 2020 -0400
+
+    debug astar
+
+commit 10d9c7b4c50530e73772d5823b407efee9e0b6ac
+Author: Wenxuan Lu <wlu15@jhu.edu>
+Date:   Sat May 2 08:32:32 2020 -0400
+
+    bug fixed, heors can be caught successfully
+
+commit 788288a2203e6ac363a8e6456ba6fdb859b7fe0d
+Author: Wenxuan Lu <wlu15@jhu.edu>
+Date:   Sat May 2 08:31:32 2020 -0400
+
+    delete the folder for object files
+
+commit b693d08f402946731151c341eead3a3fde7b8682
+Author: Wenxuan Lu <wlu15@jhu.edu>
+Date:   Sat May 2 07:34:45 2020 -0400
+
+    allow m to catch h; print game result successfully
+
+commit cb7966a5f4606b591ae32d6fcd89a58952014bbd
+Author: Wenxuan Lu <wlu15@jhu.edu>
+Date:   Fri May 1 11:46:26 2020 -0400
+
+    main.cpp
+
+commit 159b88aba12cc85e59272b87d7dbea6df9b008f3
+Author: Wenxuan Lu <wlu15@jhu.edu>
+Date:   Fri May 1 11:41:57 2020 -0400
+
+    bugs fixed
+
+commit 83f6463e4d9e067b7e4068d3ff59917dd9c98b20
+Author: Intermediate Programming S20 AD <alexzhang802@gmail.com>
+Date:   Thu Apr 30 20:30:21 2020 -0400
+
+     a bunch of stuff
+
+commit 1f634deb158492f6650325e575c7179bcc3a7ba7
+Author: Intermediate Programming S20 AD <alexzhang802@gmail.com>
+Date:   Thu Apr 30 20:28:25 2020 -0400
+
+    basicgamerules.cpp
+
+commit 9bb228c8f375e60901263cbc9ddb232bc6bd05aa
+Author: Intermediate Programming S20 AD <alexzhang802@gmail.com>
+Date:   Thu Apr 30 16:09:33 2020 -0400
+
+    edited game.cpp
+
+commit a62160b1100d51a5d1cdde4d280ebf09eb2352af
+Merge: 4abe66e ddae2db
+Author: Intermediate Programming S20 AD <alexzhang802@gmail.com>
+Date:   Thu Apr 30 16:08:21 2020 -0400
+
+    Merge branch 'master' of https://bitbucket.org/Wenxuan_Lu/final-project
+
+commit 4abe66e3604a6b5b1fc67224bb4912d9cbe1739e
+Author: Intermediate Programming S20 AD <alexzhang802@gmail.com>
+Date:   Thu Apr 30 16:08:11 2020 -0400
+
+    edited basicgamerules
+
+commit ddae2dbfcde98dea38ec00146c8793274d32e53e
+Author: Wenxuan Lu <wlu15@jhu.edu>
+Date:   Thu Apr 30 11:30:05 2020 -0400
+
+    implemente UIControl class
+
+commit 1b579783b5746d7382aff009e2da5505938a6458
+Author: Intermediate Programming S20 AD <alexzhang802@gmail.com>
+Date:   Wed Apr 29 23:53:37 2020 -0400
+
+    1st version gamerules
+
+commit 57acbb9655daa4a01294fb85fcfccc59118e2585
+Author: Intermediate Programming S20 AD <alexzhang802@gmail.com>
+Date:   Wed Apr 29 19:31:34 2020 -0400
+
+    game header
+
+commit f6646fe218af27db48694b47eb5f212512281025
+Author: Intermediate Programming S20 AD <alexzhang802@gmail.com>
+Date:   Wed Apr 29 19:31:19 2020 -0400
+
+    game.cpp with 2 func
+
+commit cd1954c5738f67653ecd1e1f0acd951ecf4617d7
+Author: Intermediate Programming S20 AD <alexzhang802@gmail.com>
+Date:   Tue Apr 28 21:12:23 2020 -0400
+
+    maze.cpp
+
+commit 495b05f18b077b4b7d37959113bd037aa2a0f69d
+Author: Intermediate Programming S20 AD <alexzhang802@gmail.com>
+Date:   Tue Apr 28 21:06:43 2020 -0400
+
+    maze.h
+
+commit 134d4e9c3e23d91667130be6e4cbbd359a66fd97
+Author: Intermediate Programming S20 AD <alexzhang802@gmail.com>
+Date:   Tue Apr 28 21:03:35 2020 -0400
+
+    updated maze.cpp
+
+commit 4cba86c7eb65d957ffa39368cbdd776087f9d3d8
+Author: Wenxuan Lu <wlu15@jhu.edu>
+Date:   Tue Apr 28 11:08:00 2020 -0400
+
+    TextUI class implemented
+
+commit 872df02939d865c8818d28c6a4d8ce3c69e5ef8b
+Author: Intermediate Programming S20 AD <alexzhang802@gmail.com>
+Date:   Tue Apr 28 00:52:48 2020 -0400
+
+    entity.cpp
+
+commit 1fc285d5e79e93e41cf8e18339ad8c4e165116b1
+Author: Intermediate Programming S20 AD <alexzhang802@gmail.com>
+Date:   Tue Apr 28 00:52:29 2020 -0400
+
+    entity.cpp
+
+commit 1a4e39e4f99f6629663ebf2a005a167d787489dd
+Author: Intermediate Programming S20 AD <alexzhang802@gmail.com>
+Date:   Tue Apr 28 00:52:08 2020 -0400
+
+    maze.cpp
+
+commit 993d1c60ae1d0cce385a7768b173ec255a1a09be
+Merge: b5b88e8 55acb58
+Author: Intermediate Programming S20 AD <alexzhang802@gmail.com>
+Date:   Tue Apr 28 00:51:27 2020 -0400
+
+    Merge branch 'master' of https://bitbucket.org/Wenxuan_Lu/final-project
+
+commit b5b88e801236511acd630d5ec126320ecfa87e0b
+Author: Intermediate Programming S20 AD <alexzhang802@gmail.com>
+Date:   Mon Apr 27 22:51:09 2020 -0400
+
+    added maze.cpp
+
+commit d41a0c5f67f842d2c974c3db9d60ea6a2ee64211
+Author: Intermediate Programming S20 AD <alexzhang802@gmail.com>
+Date:   Mon Apr 27 22:50:27 2020 -0400
+
+    added maze.h
+
+commit 55acb58c4068cee16888a6a282165cf704dd0414
+Author: Wenxuan Lu <wlu15@jhu.edu>
+Date:   Mon Apr 27 13:10:01 2020 -0400
+
+    AStarChaseHero class implemented
+
+commit f9fb6f901854334db445263546e823c023774eee
+Author: Wenxuan Lu <wlu15@jhu.edu>
+Date:   Mon Apr 27 13:09:19 2020 -0400
+
+    function description revised
+
+commit ed0382313bb74c92e41c7170d6281ffbea87b0ae
+Author: Wenxuan Lu <wlu15@jhu.edu>
+Date:   Mon Apr 27 00:47:43 2020 -0400
+
+    implement ChaseHero class
+
+commit c7f991e9e132ee23f93a8d6cf1464c6cb2a7591e
+Author: Wenxuan Lu <wlu15@jhu.edu>
+Date:   Mon Apr 27 00:35:14 2020 -0400
+
+    add forward class GameRules
+
+commit 352964835fc66a608484a571cf69581c70d1ff3c
+Author: Wenxuan Lu <wlu15@jhu.edu>
+Date:   Sun Apr 26 10:26:36 2020 -0400
+
+    implement Inanimate class
+
+commit e6950d06776197c36c87b8d648b76f4fc5c0184d
+Author: Wenxuan Lu <wlu15@jhu.edu>
+Date:   Sat Apr 25 01:48:54 2020 -0400
+
+    implement Floor, Goal, and Wall class
+
+commit 0ce233219a70c79125c3617610ad1152f328dc5c
+Author: Wenxuan Lu <wlu15@jhu.edu>
+Date:   Sat Apr 25 01:46:22 2020 -0400
+
+    revise make clean so that it can delete object files
+
+commit a0251224b9b5e45ee88e442ff7c016eed73449c4
+Author: Wenxuan Lu <wlu15@jhu.edu>
+Date:   Fri Apr 24 22:19:38 2020 -0400
+
+    starter-code
